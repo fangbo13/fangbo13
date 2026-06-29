@@ -12,7 +12,7 @@
 
 ---
 
-### Profile / 个人档案
+### About me
 
 <table width="100%">
   <tr>
@@ -21,11 +21,11 @@
   </tr>
   <tr>
     <td><b>🎯 Role / 角色</b></td>
-    <td>Software Engineer / AI Researcher<br><sub>软件工程师 / AI 研究员</sub></td>
+    <td>Auditor<br><sub>审计员</sub></td>
   </tr>
   <tr>
     <td><b>🚀 Focus / 领域</b></td>
-    <td>Cloud Infrastructure & Large Language Models (LLMs)<br><sub>云基础设施 & 大语言模型</sub></td>
+    <td>Risk Management & Financial Audit<br><sub>风险管理与财务审计</sub></td>
   </tr>
   <tr>
     <td><b>🛡️ Status / 状态</b></td>

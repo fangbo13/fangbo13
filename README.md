@@ -14,10 +14,24 @@
 
 ### Profile / 个人档案
 
-* 🌐 **Alias / 代号** : FANG
-* 🎯 **Role / 角色** : Software Engineer / AI Researcher (软件工程师 / AI 研究员)
-* 🚀 **Focus / 领域** : Cloud Infrastructure & Large Language Models (LLMs) (云基础设施 & 大语言模型)
-* 🛡️ **Status / 状态** : Under Construction // Silent Mode (开发构建中 // 静默模式)
+<table width="100%">
+  <tr>
+    <td width="30%"><b>🌐 Alias / 代号</b></td>
+    <td width="70%"><b>FANG</b></td>
+  </tr>
+  <tr>
+    <td><b>🎯 Role / 角色</b></td>
+    <td>Software Engineer / AI Researcher<br><sub>软件工程师 / AI 研究员</sub></td>
+  </tr>
+  <tr>
+    <td><b>🚀 Focus / 领域</b></td>
+    <td>Cloud Infrastructure & Large Language Models (LLMs)<br><sub>云基础设施 & 大语言模型</sub></td>
+  </tr>
+  <tr>
+    <td><b>🛡️ Status / 状态</b></td>
+    <td>Under Construction // Silent Mode<br><sub>开发构建中 // 静默模式</sub></td>
+  </tr>
+</table>
 
 <br/>
 

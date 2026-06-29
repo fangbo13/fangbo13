@@ -3,6 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=V01D-X%20%2F%2F%20SYSTEM%20ONLINE&fontSize=32&fontColor=00F0FF&animation=fadeIn&fontAlignY=50&desc=INITIATING%20PROTOCOL%20...&descSize=14&descColor=8A9A9A" width="100%" />
 </p>
 
+<!-- 社交媒体图标 & 粉丝数 -->
+<p align="center">
+  <a href="https://github.com/fangbo13"><img src="https://img.shields.io/github/followers/fangbo13?label=Followers&style=flat-square&color=8B5CF6&logo=github" alt="GitHub followers"></a>
+  &nbsp;&nbsp;
+  <a href="mailto:fangbo333@gmail.com"><img src="https://img.shields.io/badge/Email-fangbo333%40gmail.com-6366F1?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
 ---
 
 ### 🖥️ 终端日志 / Terminal Logs
@@ -19,7 +26,7 @@ $ cat bio.log
 > 🧩 "The best way to predict the future is to invent it."
 
 $ query connectivity
-> Email   : [Encrypted]
+> Email   : fangbo333@gmail.com
 > GitHub  : Online
 ```
 

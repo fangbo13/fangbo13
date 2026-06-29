@@ -45,10 +45,6 @@ func main() {
   <img alt="github contribution grid snake" src="github-contribution-grid-snake.svg" width="100%">
 </picture>
 
-<p align="center">
-  <i>* 贪吃蛇会根据我的每日提交数据自动爬行进食，每日自动更新！</i>
-</p>
-
 ---
 
 <!-- 访客数计数器 - 采用 Google 蓝配色 -->

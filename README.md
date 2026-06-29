@@ -14,9 +14,9 @@
 
 ### About me
 
-I am **FANG**, a professional Auditor focusing on Risk Management and Financial Audit. Currently, this workspace is under construction and operating in silent mode.
+I am **FANG**, a professional Auditor focusing on Risk Management and Financial Audit.
   
-我是 **FANG**，一名专注于风险管理与财务审计的审计专业人员。当前此空间处于静默构建与维护状态。
+我是 **FANG**，一名专注于风险管理与财务审计的审计专业人员。
 
 <br/>
 

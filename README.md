@@ -5,8 +5,6 @@
 
 <!-- 社交图标与状态 -->
 <p align="center">
-  <a href="https://github.com/fangbo13"><img src="https://img.shields.io/github/followers/fangbo13?label=Followers&style=flat-square&color=34A853&logo=github" alt="GitHub followers"></a>
-  &nbsp;&nbsp;
   <a href="mailto:fangbo333@gmail.com"><img src="https://img.shields.io/badge/Email-fangbo333%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 

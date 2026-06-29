@@ -2,9 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=38&duration=2500&pause=1500&color=1d1d1f&center=true&vCenter=true&width=600&height=70&lines=HI%EF%BC%8C%E6%88%91%E6%98%AFFANG.;HI%2C+I'm+FANG." alt="Typing SVG" />
 </p>
-<p align="center">
-  <sub>Designed by FANG in Cyberspace</sub>
-</p>
 
 <!-- 极简单色社交状态 -->
 <p align="center">

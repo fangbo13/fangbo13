@@ -14,24 +14,9 @@
 
 ### About me
 
-<table width="100%">
-  <tr>
-    <td width="30%"><b>🌐 Alias / 代号</b></td>
-    <td width="70%"><b>FANG</b></td>
-  </tr>
-  <tr>
-    <td><b>🎯 Role / 角色</b></td>
-    <td>Auditor<br><sub>审计员</sub></td>
-  </tr>
-  <tr>
-    <td><b>🚀 Focus / 领域</b></td>
-    <td>Risk Management & Financial Audit<br><sub>风险管理与财务审计</sub></td>
-  </tr>
-  <tr>
-    <td><b>🛡️ Status / 状态</b></td>
-    <td>Under Construction // Silent Mode<br><sub>开发构建中 // 静默模式</sub></td>
-  </tr>
-</table>
+I am **FANG**, a professional Auditor focusing on Risk Management and Financial Audit. Currently, this workspace is under construction and operating in silent mode.
+  
+我是 **FANG**，一名专注于风险管理与财务审计的审计专业人员。当前此空间处于静默构建与维护状态。
 
 <br/>
 

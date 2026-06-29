@@ -1,6 +1,6 @@
 <!-- 🍏 Apple 风格极简页眉 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=180&section=header&text=V01D-X&subtitle=Designed+by+V01D-X+in+Cyberspace&fontSize=38&subFontSize=16&fontColor=1d1d1f&animation=fadeIn&fontAlignY=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=180&section=header&text=HI%EF%BC%8C%E6%88%91%E6%98%AFFANG.&subtitle=Designed+by+FANG+in+Cyberspace&fontSize=34&subFontSize=16&fontColor=1d1d1f&animation=fadeIn&fontAlignY=50" width="100%" />
 </p>
 
 <!-- 极简单色社交状态 -->
@@ -14,7 +14,7 @@
 
 ### Profile
 
-* 🌐 **Alias** : V01D-X
+* 🌐 **Alias** : FANG
 * 🎯 **Role** : Software Engineer / AI Researcher
 * 🚀 **Focus** : Cloud Infrastructure & Large Language Models (LLMs)
 * 🛡️ **Status** : Under Construction // Silent Mode

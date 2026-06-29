@@ -10,20 +10,12 @@
 
 ---
 
-### 📂 System Profile
+### 📂 Profile
 
-```bash
-$ systemctl status v01d-x.service
-
-● v01d-x.service - Profile Log Service
-   Loaded: loaded
-   Active: active (running)
-   Details:
-   ├─ Alias: V01D-X
-   ├─ Role: Software Engineer / AI Researcher
-   ├─ Focus: Cloud Infrastructure, Large Language Models (LLMs)
-   └─ Status: Under Construction // Silent Mode
-```
+* 🌐 **Alias** : V01D-X
+* 🎯 **Role** : Software Engineer / AI Researcher
+* 🚀 **Focus** : Cloud Infrastructure & Large Language Models (LLMs)
+* 🛡️ **Status** : Under Construction // Silent Mode
 
 ---
 

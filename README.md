@@ -12,24 +12,17 @@
 
 ### 📂 System Profile
 
-```go
-package main
+```bash
+$ systemctl status v01d-x.service
 
-import "fmt"
-
-func main() {
-    profile := map[string]string{
-        "alias":  "V01D-X",
-        "role":   "Software Engineer / AI Researcher",
-        "focus":  "Cloud Infrastructure, Large Language Models (LLMs)",
-        "status": "Under Construction // Silent Mode",
-    }
-    
-    fmt.Println("System initialized.")
-    for key, value := range profile {
-        fmt.Printf("[%s]: %s\n", key, value)
-    }
-}
+● v01d-x.service - Profile Log Service
+   Loaded: loaded
+   Active: active (running)
+   Details:
+   ├─ Alias: V01D-X
+   ├─ Role: Software Engineer / AI Researcher
+   ├─ Focus: Cloud Infrastructure, Large Language Models (LLMs)
+   └─ Status: Under Construction // Silent Mode
 ```
 
 ---

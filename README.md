@@ -1,6 +1,9 @@
-<!-- 🍏 Apple 风格极简页眉 -->
+<!-- 🍏 Apple 风格极简动态页眉 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=180&section=header&text=HI%EF%BC%8C%E6%88%91%E6%98%AFFANG.&subtitle=Designed+by+FANG+in+Cyberspace&fontSize=34&subFontSize=16&fontColor=1d1d1f&animation=fadeIn&fontAlignY=50" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=38&duration=2500&pause=1500&color=1d1d1f&center=true&vCenter=true&width=600&height=70&lines=HI%EF%BC%8C%E6%88%91%E6%98%AFFANG.;HI%2C+I'm+FANG." alt="Typing SVG" />
+</p>
+<p align="center">
+  <sub>Designed by FANG in Cyberspace</sub>
 </p>
 
 <!-- 极简单色社交状态 -->
@@ -12,18 +15,18 @@
 
 ---
 
-### Profile
+### Profile / 个人档案
 
-* 🌐 **Alias** : FANG
-* 🎯 **Role** : Software Engineer / AI Researcher
-* 🚀 **Focus** : Cloud Infrastructure & Large Language Models (LLMs)
-* 🛡️ **Status** : Under Construction // Silent Mode
+* 🌐 **Alias / 代号** : FANG
+* 🎯 **Role / 角色** : Software Engineer / AI Researcher (软件工程师 / AI 研究员)
+* 🚀 **Focus / 领域** : Cloud Infrastructure & Large Language Models (LLMs) (云基础设施 & 大语言模型)
+* 🛡️ **Status / 状态** : Under Construction // Silent Mode (开发构建中 // 静默模式)
 
 <br/>
 
 ---
 
-### Contribution Activity
+### Contribution Activity / 贡献动态
 
 <!-- 贪吃蛇动态贡献图 -->
 <picture>

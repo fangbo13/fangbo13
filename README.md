@@ -27,11 +27,11 @@ $ query connectivity
 
 ### 👾 实时轨迹 / Contribution Grid
 
-<!-- 贪吃蛇动态贡献图 -->
+<!-- 贪吃蛇动态贡献图 - 使用相对路径，直接读取 main 分支的最新生成文件，避免 CDN 缓存延迟 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fangbo13/fangbo13/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fangbo13/fangbo13/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/fangbo13/fangbo13/output/github-contribution-grid-snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="github-contribution-grid-snake.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -40,7 +40,7 @@ $ query connectivity
 
 ---
 
-<!-- 访客数计数器 -->
+<!-- 访客数计数器 - 使用极其稳定的 Komarev 计数服务，定制霓虹青色调以符合终端风格 -->
 <div align="right">
-  <img src="https://profile-counter.glitch.me/fangbo13/count.svg" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=fangbo13&color=00f0ff&style=flat-square&label=SYSTEM+ACCESSES" alt="Visitor Counter" />
 </div>

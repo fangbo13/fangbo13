@@ -16,7 +16,7 @@
 
 I am **FANG**, a professional Auditor focusing on Risk Management and Financial Audit.
   
-我是 **FANG**，一个臭审计的。
+我是 **FANG**，一个审计狗。
 
 <br/>
 
